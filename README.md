@@ -4,8 +4,8 @@
   <a href="https://github.com/vcruz0?tab=followers"><img src="https://img.shields.io/github/followers/vcruz0?style=social" alt="GitHub followers"/></a>
   <a href="https://github.com/vcruz0"><img src="https://img.shields.io/github/stars/vcruz0?style=social" alt="GitHub stars"/></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vcruz0.vcruz0" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=vcruz0" alt="profile views"/>
 </div>
-
 <br>
 
 ## 🚀 About Me
@@ -13,7 +13,6 @@
 - 🎓 **Computer Systems Engineering**.
 - 💻 Passionate about **full-stack development**, **automation**, and **modern DevOps tools**.
 - 🧠 Always exploring technologies like **Go**, **Python**, **Docker**, and **Odoo**.
-- ⚡ **Fun fact**: I love pizza 🍕, music 🎵, and adventure sports ⛰️!
 
 <br>
 
