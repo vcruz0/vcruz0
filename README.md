@@ -54,13 +54,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vcruz0&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vcruz0&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=vcruz0&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vcruz0&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcruz0&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vcruz0&theme=algolia&hide_border=true&layout=compact" alt="WakaTime Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vcruz0&layout=compact&theme=algolia&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vcruz0&repo=vcruz0&theme=algolia&hide_border=true&show_owner=true" alt="Pinned Repo" width="49%" />
 </div>
 
 <br>
