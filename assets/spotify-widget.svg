@@ -1,53 +1,120 @@
-<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="360" height="150" viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NjI5NmMwYi1jYWU5LTRhNTMtYTJiYS1lZjQ1YjEyMjhiZDIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKpZJmnqwJago48HRppx2cAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmMjNmODZhNi00M2JhLTQ0ZjgtODM2Yi0zZTgxZDc4YzI4MmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoxgjltjEQKdZl8qMAGLAAeQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJaMPhhflacHjgLTe2IVCCZsA57KhukUOwHUUQsWyuXSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMvq39l8RQlZ1v+w/ZeEdiEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC4AWKKE6mKHZcGmw8mF8GTDGIseG1wctFe3oS1onUfxmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ2Mjk2YzBiLWNhZTktNGE1My1hMmJhLWVmNDViMTIyOGJkMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNkZGQxNmY3LWNmYWEtNGNjYS1hZjNmLWIyZDA2YTA1ZjA2NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAlow+GF+VpweOAtN7YhUIJmwDnsqG6RQ7AdRRCxbK5dKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggsGWnAZlnoJzgqOzZL4nLHP35RwP9IGEV3dQE5MuZGmqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7P0oIqj6mMPMBSRbJQ7u7ORSIwMM6YPXBjtYOE92+lp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLMsg6A7TGo7yNlxbSGzfv2npBdxd9BvseAjItKvXCQbyBDubNm+4gNsK2a0G/czfsj54mdDD1tPOXtymegymx0=</c2pa:manifest></metadata>
   <defs>
-    <linearGradient id="albumGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1ED760"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
+    <radialGradient id="labelGrad" cx="35%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#ff5a4d"/>
+      <stop offset="55%" stop-color="#b91c2c"/>
+      <stop offset="100%" stop-color="#7a0f18"/>
+    </radialGradient>
   </defs>
 
   <!-- card background -->
-  <rect width="400" height="120" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect width="360" height="150" rx="20" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- album art -->
-  <rect x="16" y="16" width="88" height="88" rx="12" fill="url(#albumGrad)"/>
-  <g stroke="#0d1117" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.85">
-    <circle cx="60" cy="60" r="18"/>
-    <circle cx="60" cy="60" r="3" fill="#0d1117"/>
-    <line x1="60" y1="42" x2="60" y2="48"/>
+  <!-- barcode card: rectangular, softly rounded corners -->
+  <rect x="20" y="12" width="34" height="116" rx="8" fill="#f5f5f5"/>
+  <g fill="#111111">
+    <rect x="32.5" y="20.0" width="9" height="2.2" rx="1.1"/>
+    <rect x="28.5" y="25.3" width="17" height="2.2" rx="1.1"/>
+    <rect x="34.0" y="30.7" width="6" height="2.2" rx="1.1"/>
+    <rect x="27.5" y="36.0" width="19" height="2.2" rx="1.1"/>
+    <rect x="31.5" y="41.3" width="11" height="2.2" rx="1.1"/>
+    <rect x="29.5" y="46.7" width="15" height="2.2" rx="1.1"/>
+    <rect x="33.5" y="52.0" width="7" height="2.2" rx="1.1"/>
+    <rect x="28.5" y="57.3" width="17" height="2.2" rx="1.1"/>
+    <rect x="32.0" y="62.7" width="10" height="2.2" rx="1.1"/>
+    <rect x="30.5" y="68.0" width="13" height="2.2" rx="1.1"/>
+    <rect x="34.0" y="73.3" width="6" height="2.2" rx="1.1"/>
+    <rect x="28.0" y="78.7" width="18" height="2.2" rx="1.1"/>
+    <rect x="32.5" y="84.0" width="9" height="2.2" rx="1.1"/>
+    <rect x="30.5" y="89.3" width="13" height="2.2" rx="1.1"/>
+    <rect x="29.0" y="94.7" width="16" height="2.2" rx="1.1"/>
+    <rect x="33.5" y="100.0" width="7" height="2.2" rx="1.1"/>
+  </g>
+  <circle cx="37" cy="110" r="7" fill="#111111"/>
+  <g fill="#f5f5f5">
+    <rect x="34.0" y="107" width="1.4" height="6" rx="0.7"/>
+    <rect x="36.6" y="105" width="1.4" height="10" rx="0.7"/>
+    <rect x="39.2" y="108" width="1.4" height="4" rx="0.7"/>
   </g>
 
-  <!-- spotify-style icon -->
-  <circle cx="132" cy="28" r="10" fill="#1ED760"/>
-  <path d="M 126 25 Q 132 22 138 25" stroke="#0d1117" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-  <path d="M 125 28.5 Q 132 25 139 28.5" stroke="#0d1117" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-  <path d="M 126 32 Q 132 29.5 138 32" stroke="#0d1117" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <!-- turntable platter (static, peeks out behind the record) -->
+  <circle cx="105" cy="71" r="40" fill="#161b22"/>
 
-  <text x="148" y="32" fill="#8b949e" font-family="Verdana, sans-serif" font-size="11" letter-spacing="1.5">NOW PLAYING</text>
-
-  <!-- equalizer bars -->
-  <g transform="translate(354,16)">
-    <rect x="0" y="6" width="3" height="8" fill="#1ED760">
-      <animate attributeName="height" values="8;14;4;10;8" dur="1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="6;3;8;5;6" dur="1s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="6" y="2" width="3" height="16" fill="#1ED760">
-      <animate attributeName="height" values="16;6;12;18;16" dur="1.2s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="2;7;4;1;2" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="12" y="8" width="3" height="6" fill="#1ED760">
-      <animate attributeName="height" values="6;16;8;4;6" dur="0.9s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="8;2;6;10;8" dur="0.9s" repeatCount="indefinite"/>
-    </rect>
+  <!-- vinyl record (spins) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 105 71" to="360 105 71" dur="3s" repeatCount="indefinite"/>
+    <circle cx="105" cy="71" r="36" fill="#111111"/>
+    <circle cx="105" cy="71" r="31" fill="none" stroke="#ffffff14" stroke-width="1"/>
+    <circle cx="105" cy="71" r="26" fill="none" stroke="#ffffff14" stroke-width="1"/>
+    <circle cx="105" cy="71" r="21" fill="none" stroke="#ffffff14" stroke-width="1"/>
+    <circle cx="105" cy="71" r="16" fill="none" stroke="#ffffff14" stroke-width="1"/>
+    <circle cx="105" cy="71" r="12" fill="url(#labelGrad)"/>
+    <circle cx="105" cy="71" r="2.2" fill="#0d1117"/>
   </g>
 
-  <!-- track info -->
-  <text x="120" y="64" fill="#e6edf3" font-family="Verdana, sans-serif" font-size="18" font-weight="bold">Pienso en Ella</text>
-  <text x="120" y="86" fill="#8b949e" font-family="Verdana, sans-serif" font-size="13">Natanael Cano</text>
+  <!-- tonearm (static, rests on the edge) -->
+  <circle cx="141" cy="20" r="3" fill="#8b949e"/>
+  <line x1="141" y1="20" x2="126" y2="42" stroke="#8b949e" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="126" cy="42" r="2.5" fill="#e6edf3"/>
 
-  <!-- progress bar -->
-  <rect x="120" y="100" width="264" height="3" rx="1.5" fill="#30363d"/>
-  <rect x="120" y="100" width="0" height="3" rx="1.5" fill="#1ED760">
-    <animate attributeName="width" values="0;264;0" keyTimes="0;0.9;1" dur="14s" repeatCount="indefinite"/>
-  </rect>
+  <!-- text block: centered -->
+  <text x="246" y="36" fill="#8b949e" font-family="Verdana, sans-serif" font-size="10" letter-spacing="1.5" text-anchor="middle">NOW PLAYING</text>
+  <text x="246" y="62" fill="#ffffff" font-family="Verdana, sans-serif" font-size="23" font-weight="bold" text-anchor="middle">Pienso en Ella</text>
+  <text x="246" y="86" fill="#9aa4b2" font-family="Verdana, sans-serif" font-size="15" text-anchor="middle">Natanael Cano</text>
+
+  <!-- colorful visualizer bars: 13 bars, centered under the text, red to green -->
+  <g>
+    <rect x="170" y="118" width="8" height="14" rx="3" fill="#7a1a1a">
+      <animate attributeName="height" values="14;20;10;14" dur="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="118;112;122;118" dur="1.0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="182" y="110" width="8" height="22" rx="3" fill="#a3232e">
+      <animate attributeName="height" values="22;30;16;22" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="110;102;116;110" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="194" y="122" width="8" height="10" rx="3" fill="#c62e34">
+      <animate attributeName="height" values="10;16;6;10" dur="0.85s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="122;116;126;122" dur="0.85s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="206" y="102" width="8" height="30" rx="3" fill="#e63946">
+      <animate attributeName="height" values="30;22;36;30" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="102;110;96;102" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="218" y="114" width="8" height="18" rx="3" fill="#f3722c">
+      <animate attributeName="height" values="18;26;12;18" dur="1.05s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="114;106;120;114" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="230" y="96" width="8" height="36" rx="3" fill="#f8961e">
+      <animate attributeName="height" values="36;28;40;36" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="96;104;92;96" dur="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="242" y="106" width="8" height="26" rx="3" fill="#f9844a">
+      <animate attributeName="height" values="26;18;32;26" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="106;114;100;106" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="254" y="92" width="8" height="40" rx="3" fill="#f9c74f">
+      <animate attributeName="height" values="40;32;40;36" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="92;100;92;96" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="266" y="112" width="8" height="20" rx="3" fill="#d4d66b">
+      <animate attributeName="height" values="20;28;14;20" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="112;104;118;112" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="278" y="100" width="8" height="32" rx="3" fill="#a9c956">
+      <animate attributeName="height" values="32;24;36;32" dur="1.35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="100;108;96;100" dur="1.35s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="290" y="118" width="8" height="14" rx="3" fill="#90be6d">
+      <animate attributeName="height" values="14;20;8;14" dur="0.95s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="118;112;124;118" dur="0.95s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="302" y="108" width="8" height="24" rx="3" fill="#6a9b3f">
+      <animate attributeName="height" values="24;16;28;24" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="108;116;104;108" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="314" y="120" width="8" height="12" rx="3" fill="#43aa8b">
+      <animate attributeName="height" values="12;18;6;12" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="120;114;126;120" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
