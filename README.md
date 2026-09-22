@@ -110,7 +110,6 @@
 
 <div align="center">
   <img src="./gif/monkey.gif" alt="Coding mood" width="45%" style="border-radius:16px;" />
-  <img src="https://spotify-readme-three-peach.vercel.app/api" alt="Spotify currently playing" width="45%" style="border-radius:16px;" />
   <br/>
   <sub>me, debugging at 2am (probably with music on)</sub>
 </div>
